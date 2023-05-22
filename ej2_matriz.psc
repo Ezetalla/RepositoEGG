@@ -2,9 +2,10 @@
 //usuario en una matriz de 5x5, llena de números aleatorios y devuelva por pantalla las
 //coordenadas donde se encuentra el valor, es decir en que fila y columna se encuentra. En
 //caso de no encontrar el valor dentro de la matriz se debe mostrar un mensaje.
+/// COSAS NUEVAS
 
 Algoritmo ej2_matriz
-	
+	definir cosasnuevas como entero
 	definir matri, m , n, val Como Real
 	dimension matri(5,5)
 
